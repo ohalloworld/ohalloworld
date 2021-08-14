@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ohalloworld
+- 👋 Hi, I’m Eoin O'Halloran or @ohalloworld
 - 👀 I’m interested in learning computer science, gaming, eventually changing careers into development :)
 - 🌱 I’m currently learning Java through the University of Helsinki's MOOC course and Computer Science through EDX and Harvard's CS50 course
 - 💞️ I’m looking to collaborate on mobile apps, web apps, small and big projects. Anything that will help me learn
